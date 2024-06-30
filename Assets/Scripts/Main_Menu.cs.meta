@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d002e09650dc61141b37ff01cdc3e77b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Menu_Main: {instanceID: 0}
+  - Start_Button: {instanceID: 0}
+  - Option_Button: {instanceID: 0}
+  - Option_Music: {instanceID: 0}
+  - Option_Graphics: {instanceID: 0}
+  - Option_Controls: {instanceID: 0}
+  - Option_Credits: {instanceID: 0}
+  - Exit_Button: {instanceID: 0}
+  - Button_Sound: {instanceID: 0}
+  - AudioMixer: {instanceID: 0}
+  - Effects: {instanceID: 0}
+  - LightMain: {fileID: 3624992665834375565, guid: e618f5153e5c1d14daab2d8b370ffc29, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
